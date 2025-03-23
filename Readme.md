@@ -10,6 +10,12 @@ This application extracts news articles related to a given company, performs sen
 2. Click "Fetch News" to fetch and analyze news articles.
 3. View the sentiment analysis and listen to the Hindi TTS summary.
 
+## Video explanation on the project
+
+Loom: https://www.loom.com/share/6a1aa989669b4d37bf795759d6765989?sid=97883eb7-1d4e-4447-a252-f160bd4f92f4
+
+You will not hear the audio file played in the video because the mic was blocking it. Please run the code and test it once.
+
 ## Deployment
 
 This application is deployed on Hugging Face Spaces and GitHub.
